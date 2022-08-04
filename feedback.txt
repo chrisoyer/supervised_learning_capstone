@@ -1,0 +1,4 @@
+from capstone presentation:
+
+multicolinearity causes problmems for inference because conflicitng coefficients. Not a problem for prediction.
+regression scores beyond r^2

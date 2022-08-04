@@ -1,0 +1,36 @@
+Intro
+Setup
+Shelter Dataset: exploration & Cleaning
+ outcome
+ color
+import dataset: dog breed description
+ explore
+ duplicate exercise need
+ look for nulls
+Initial feature selection
+feature augmenetation: Combining datsets
+ breed field cleaing
+ combine DFs
+ deal with issues created by merge
+  Average breed data for animals with multiple breeds listed
+  nulls
+intake features
+feature engineering
+  sex/neutering
+  datetime
+feature selection
+ split data
+ look for multicolinearity
+ review variable distribution
+ Algorithmic feature Selection
+Modeling
+ Linear Regression
+ Tree-based
+  Random Forests
+  Gradient Boosted tree ensembles
+ Other Models
+ Model Score Comparison
+Interpretation
+ Features
+ Error Distribution
+ Further Study
